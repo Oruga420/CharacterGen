@@ -1,0 +1,5 @@
+{
+  "name": "Anime Trio Art Generator",
+  "description": "Select three characters from a curated list of anime favorites and generate interactive art inspired by Van Gogh's Starry Night.",
+  "requestFramePermissions": []
+}
